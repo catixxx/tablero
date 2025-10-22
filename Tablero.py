@@ -49,7 +49,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Título principal ---
-st.title("🎨 Tablero de Dibujo Femenino 🌸")
+st.title("🎨 Tablero de Dibujo 🌸")
 
 # --- Panel lateral con propiedades ---
 with st.sidebar:
